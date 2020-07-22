@@ -1,0 +1,9 @@
+www,birthday:2017.12.2,tel:2321,email:3123,school:3123
+jkl,birthday:2000.12.1,tel:231,email:3123,school:312
+the_shy,birthday:1998.3.11,tel:312,email:3123,school:scut
+qqqq,birthday:2019.2.23,tel:3123,email:3123,company:3123
+mySQL,birthday:2017.2.1,tel:e213,email:3123,company:3123
+ggg,birthday:2014.9.23,tel:3123,email:3123,the place where you meet:3123
+zzz,birthday:2013.6.2,tel:3123,email:3123,the place where you meet:eqwe
+ttt,birthday:2001.3.23,tel:3123,email:3123,the place where you meet:3123
+ning,birthday:2001.12.4,tel:3123,email:3123,call:3123
